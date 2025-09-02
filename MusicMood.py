@@ -3,9 +3,9 @@ import string
 # mood keyword dictionaries
 MOODS = {
     "happy": ["love", "joy", "smile", "sun", "happy"],
-    "sad": ["cry", "lonely", "sad", "dark", "tears"],
+    "sad": ["cry", "lonely", "lost", "dark", "tears"],
     "calm": ["peace", "dream", "soft", "slow", "calm"],
-    "energetic": ["fire", "wild", "dance", "fast", "run"]
+    "energetic": ["life", "wild", "dance", "fast", "run"]
 }
 
 # read lyrics from the file and return as list of words
@@ -50,3 +50,4 @@ def main():
 # run main
 if __name__ == "__main__":
     main()
+
