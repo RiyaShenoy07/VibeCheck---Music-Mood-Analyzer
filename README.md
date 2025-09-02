@@ -27,14 +27,14 @@ cd VibeCheck---Music-Mood-Analyzer
 
 3. Make sure you have Python 3 installed.
 
-##  Usage
+## Usage
 
 Create a text file named lyrics.txt with your song lyrics.
 Run the Python script:
-python lyric_mood.py
+python MusicMood.py
 See the mood analysis output in the terminal.
 
-##  Example Output
+## Example Output
 --- Music Mood Analyzer ---
 Happy     : 40.0%
 Sad       : 10.0%
